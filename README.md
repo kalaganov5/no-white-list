@@ -5,6 +5,7 @@
    - [AppStore](https://apps.apple.com/ru/app/happ-proxy-utility-plus/id6746188973)
    - [Windows](https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe)
    - [Mac](https://github.com/Happ-proxy/happ-desktop/releases/latest/download/Happ.macOS.universal.dmg)
+   - [Другие платформы](https://www.happ.su/main/ru)
 
 2. Копируем
    ```
