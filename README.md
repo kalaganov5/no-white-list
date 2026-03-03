@@ -17,11 +17,11 @@
    - Включаем - разрешить небезопасные
    - Вставляем в URL - https://raw.githubusercontent.com/zieng2/wl/main/vless_lite.txt
 
-<video controls src="https://itdomaster.ru/wp-content/uploads/2026/03/add-subcribe.mp4"></video>
+[🎥 Видео инструкция: Добавление подписки](https://itdomaster.ru/wp-content/uploads/2026/03/add-subcribe.mp4)
 
 5. Желательно: Настроить обновление подписки
 
-<video controls src="https://itdomaster.ru/wp-content/uploads/2026/03/update-subscibe.mp4"></video>
+[🎥 Видео инструкция: Настройка обновление подписки](https://itdomaster.ru/wp-content/uploads/2026/03/update-subscibe.mp4)
 
 ## Как выбрать рабочий сервер
 
